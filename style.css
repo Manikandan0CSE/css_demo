@@ -1,0 +1,170 @@
+.nav a{
+    display: inline;
+    text-decoration: none;
+    color: gray;
+    padding: 11px;
+    
+}
+.nav{
+    padding-left: 1100px;
+}
+.body span{
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.body p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.body{
+    background-color: rgb(193, 204, 197);
+    height: 300px;
+    padding-left: 500px;
+    padding-top: 20px;
+}
+.body2{
+    width: 1000px;
+    margin: -130px 100px 100px 500px;
+    
+}
+.body2 .nav2 a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+.body2 .nav2{
+    background-color: black;
+    height: 70px;
+    padding-top: 15px;
+    padding-left: 50px;
+    border-radius: 20px 20px 0px 0px;
+}
+/* white sapce */
+.body3{
+    background-color: white;
+    height: 50px;
+}
+.body4 span{
+    font-size: x-large;
+    color: gray;
+    padding:90px;
+}
+/* template */
+/* .body5{
+    border: 1px solid black;
+   width: 540px;
+} */
+.body5 .img img{
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 30px;
+}
+.body5 .tem img{
+    width: 480px;
+    height: 400px;
+}
+.body5 .tex{
+    /* border: 1px solid black; */
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin-left: 550px;
+    margin-top: -500px;
+}
+.body5 .tex img{
+    width: 40px;
+    height: 40px;
+    padding-inline: 20px;
+}
+.body5 .tex p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-size: 15px; */
+}
+
+.body6 span{
+    font-size: x-large;
+    color: gray;
+    padding:90px;
+}
+.body6{
+    /* border: 1px solid black; */
+
+}
+.body6 .sponsor img{
+    width: 40px;
+    height: 40px;
+
+
+}
+.body6 .sponsor a{
+    color: rgb(42, 208, 230);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+    padding-inline: 10px;
+    text-decoration: none;
+}
+/* .body7{
+    border: 1px solid black;
+    height: 50px;
+    padding-left: 400px;
+    padding-top: 20px;
+} */
+
+#download{
+    color: rgb(0, 0, 0);
+    background-color: rgb(66, 202, 191);
+    width: 240px;
+    height: 30px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: large;
+    margin-right: 10px;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#live{
+    color: rgb(255, 255, 255);
+    background-color: rgb(103, 218, 69);
+    width: 240px;
+    height: 30px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: large;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.body8 a{
+    color: rgb(42, 208, 230);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+    padding-inline: 10px;
+    text-decoration: none;
+}
+
+.body8 {
+    color: rgb(42, 208, 230);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 10px;
+    padding-inline: 10px;
+    text-decoration: none;
+    margin-left: 135px;
+}
+.fo{
+    /* background-color: rgb(148, 148, 148); */
+    /* border: 1px solid black; */
+}
+.fo p{
+    margin-left: 500px;
+    color: gray;
+}
+.fo span{
+    padding-left: 300px;
+}
